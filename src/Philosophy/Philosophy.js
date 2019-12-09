@@ -12,9 +12,8 @@ export default class Philosophy extends Component {
         <img src={Head} alt="" className="Head"/>
         <div className="mission">
           <h2 className="mission-top">Mission</h2>
-            <h3 className="mission-idea1">人々の「楽しみ」に寄り添い、<br/>
-              <span className="mission-idea2">日々の生活を豊かに。</span>
-            </h3>
+            <h3 className="mission-idea1">人々の「楽しみ」に寄り添い、</h3>
+            <h3 className="mission-idea2">日々の生活を豊かに。</h3>
         </div>
         <div className="vision">
           <h2 className="vision-top">Vision</h2>
