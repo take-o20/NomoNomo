@@ -1,0 +1,80 @@
+.page {
+  background-color: #fef9fb;
+}
+.h2-philosophy{
+  padding: 15px;
+  color:#332525;
+  text-align: center;
+}
+.Head{
+  width: 80%;
+  margin: 10px 10% 10px 10%;
+  /* padding: 10px; */
+}
+.mission{
+  margin: 20px 5% 10px 5%;
+  color: #332525;
+  background-color: #ffea00;
+  border: 2px solid #332525;
+}
+.mission-top{
+  color: #fef9fb;
+  background-color: #332525;
+  width: 100px;
+  text-align: center;
+
+}
+.mission-idea1{
+  margin-left: 10px;
+  margin-top: 5px;
+}
+.mission-idea2{
+  margin-left: 150px;
+}
+.vision{
+  margin: 20px 5% 10px 5%;
+  border: 2px solid #332525;
+  color: #332525;
+}
+.vision-top{
+  margin: 10px;
+  width: 70px;
+  background-color: #ffea00;
+}
+.vision-element{
+  margin-left: 50px;
+  border-bottom: 1px solid #332525;
+}
+.vision-span{
+  padding-left:20px
+}
+.vision-text{
+  margin:10px 0px 10px 100px;
+  font-size: 15px;
+  font-weight: bold;
+}
+.value {
+  margin: 20px 5% 0px 5%;
+  border: 2px solid #332525;
+  color: #332525;
+}
+.value-top{
+  margin: 10px;
+  width: 70px;
+  background-color: #ffea00;
+}
+.value-element {
+  margin-left: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 70px;
+  clear: left;
+  float: left;
+}
+.value-text {
+  padding:15px; 
+  padding-left: 130px; 
+  font-size: 15px;
+  font-weight: bold;
+  min-height: 60px; 
+}

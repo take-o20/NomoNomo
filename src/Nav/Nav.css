@@ -1,0 +1,21 @@
+.slider1 {
+  height: 40px;
+  background-color: #332525;
+}
+.nav {
+  padding: 10px;
+  color: #fef9fb;
+  text-align: center;
+}
+.nowNav {
+  margin: 8px 0 0 0;
+  padding: 0;
+  height: 35px;
+  font-size: 25px;
+  color: #332525;
+  text-align: center;
+  background-color: #fef9fb;
+}
+.slider-back{
+  background-color: #fef9fb;
+}

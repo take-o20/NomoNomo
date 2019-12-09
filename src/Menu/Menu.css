@@ -1,0 +1,193 @@
+@font-face{
+  font-family: "karakaze";
+  src: url(./karakaze-M.ttf);
+}
+@font-face{
+  font-family: "kokugo";
+  src: url(./font_1_kokugl_1.15_rls.ttf);
+}
+.page-menu{
+  background-color: #fef9fb;
+  color:#332525;
+}
+.menu-head{
+  position: relative;
+  margin-top:0px;
+}
+.menu-photo{
+  margin: 0%;
+  width: 100%;
+  min-height: 500px;
+  border-top: 1px solid #332525;
+  border-bottom: 10px double #332525;
+}
+.p2-menu{
+  font-family: karakaze;
+  position: absolute;
+  width: 100%;
+  top:10%;
+  left: 40%;
+  color: #fef9fb;
+}
+.menu-list {
+  margin-left:20%;
+  font-size: 30px;
+}
+.menu-item {
+  position: absolute;
+  font-family: kokugo;
+  width: 100%;
+  bottom: 20px;
+  left: 55%;
+  color: #fef9fb;
+  font-size: 35px;
+  font-weight: 400;
+  list-style: none;
+}
+.menu-item-li{
+  border-bottom: 1px solid #fef9fb;
+  margin-bottom: 10px;
+}
+.menu-detail{
+  margin-top: 30px;
+  margin-left:10%;
+}
+.menu-soup{
+  position: relative;
+}
+.soup-photo {
+  margin: 0%;
+  width: 100%;
+  min-height: 600px;
+  border-top: 10px double #332525;
+  border-bottom: 10px double #332525;
+}
+.soup-name{
+  position: absolute;
+  top:30px;
+  left: 10%;
+  color: #332525;
+  font-family: karakaze;
+  font-size: 50px;
+}
+.soup-detail{
+  position: absolute;
+  bottom: 30px;
+  left: 10%;
+  font-size: 35px;
+  font-family: kokugo;
+  color: #fef9fb;
+}
+.menu-photo-big{
+  background-color: #fef9fb;
+  margin-left: 5%;
+  margin-top: 20px;
+  width:90%; 
+  max-height:  700px;
+  min-height: 380px;;
+  border: 5px solid #332525;
+}
+.p2-bigMenu {
+  min-height: 500px;
+  font-family: karakaze;
+  position: absolute;
+  top: 50px;
+  top: 5%;
+  left: 5%;
+  writing-mode: vertical-lr;
+  font-weight: 900;
+  color: #fef9fb;
+}
+.p2-bigMenu-span{
+  min-height: 500px;
+  font-family: karakaze;
+  position: absolute;
+  left: 15%;
+  top: 320px;
+  top:  15%;
+  writing-mode: vertical-lr;
+  font-weight: 900;
+  color: #fef9fb;
+}
+.menu-item-big {
+  position: absolute;
+  font-family: kokugo;
+  width: 100%;
+  bottom:5%;
+  left: 55%;
+  color: #fef9fb;
+  font-weight: 400;
+  list-style: none;
+}
+.soup-photo-big {
+  background-color: #fef9fb;
+  margin-left: 5%;
+  margin-top: 20px;
+  width:90%; 
+  max-height:  700px;
+  min-height: 380px;;
+  border: 5px solid #332525;
+}
+.soup-name-big0{
+  position: absolute;
+  left: 5%;
+  top: 0%;
+  writing-mode: vertical-lr;
+  font-family: karakaze;
+  font-weight: 500;
+  color: #fef9fb;
+}
+.soup-name-big{
+  position: absolute;
+  bottom:0%;
+  left: 5%;
+  color: #fef9fb;
+  font-family: karakaze;
+  font-weight: 500;
+}
+.soup-detail-big0{
+  position: absolute;
+  top: 5%;
+  left: 68%;
+  font-family: kokugo;
+  color: #af0082;
+  font-weight: 900;
+  background: -webkit-linear-gradient(to right, #e5033e, #b701b5, #4a02c2);
+    background: linear-gradient(to right, #e5033e, #b701b5, #4a02c2);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.soup-detail-big1{
+  position: absolute;
+  top: 15%;
+  left: 73%;
+  font-family: kokugo;
+  color: #fef9fb;
+  color: #332525;
+  font-weight: 400;
+  writing-mode: vertical-lr;
+}
+.soup-detail-big2{
+  position: absolute;
+  top: 23%;
+  left: 73%;
+  font-family: kokugo;
+  color: #5f6527;
+  font-weight: 900;
+  background: -webkit-linear-gradient(to right, #28664d, #c0cc50, #5f6527);
+    background: linear-gradient(to right, #28664d, #c0cc50, #5f6527);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+}
+.soup-detail-big{
+  position: absolute;
+  /* top: 15%; */
+  bottom: 3%;
+  left: 85%;
+  font-family: kokugo;
+  color: #fef9fb;
+  color: #332525;
+  font-weight: 400;
+  writing-mode: vertical-lr;
+}

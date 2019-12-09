@@ -1,0 +1,12 @@
+.loading-2{
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  color: red;
+}
+#root {
+  width: 100vw;
+  height: 100vh;
+  background: #fef9fb;
+  padding-top: 20px;
+}

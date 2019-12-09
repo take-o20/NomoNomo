@@ -1,0 +1,24 @@
+.h1-head {
+  padding-bottom: 5px;
+  font-size: 25px;
+  color: #ea5532;
+  text-align: center;
+}
+.head-photo{
+  padding-top:5px;
+  width:100px;
+  height: 40px;
+}
+.nomo{
+  position: absolute;
+  top:15px;
+  width:100px;
+  color:#e17b34;
+
+}
+.nomo1{
+  position: absolute;
+  top:15px;
+  width:100px;
+  color:#e17b34;
+}

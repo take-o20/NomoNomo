@@ -1,0 +1,28 @@
+.contact {
+  background-color: #fef9fb;
+  padding-top: 30px;
+}
+.contact-card{
+  margin-left: 5%;
+  width: 90%;
+  /* max-width: px; */
+}
+.contact-message {
+  font-size: 15px;
+}
+.mail{
+  font-size: 15px;
+}
+.mailaddress {
+  font-size: 17px;
+  margin-top: 5px;
+  color: #332525;
+  font-weight: 600;
+}
+.copy-button{
+  color: #332525;
+  background-color: #fef9fb;
+  border: 1px solid #332525;
+  border-radius: 3px;
+  font-size: 15px;
+}
